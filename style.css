@@ -1,6 +1,36 @@
 body {
-    background-color: skyblue;
+    background-image: url(wp2201012.png);
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+
+
     text-align: justify;
     padding: 10px
+    
 }
 
+h1 {
+    width: 600px;
+    border: 2px solid blue;
+    margin: auto;
+    padding: 20px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+
+img {
+    max-width: 100%;
+    border: 2px solid blueviolet;
+    border-radius: 20px;
+    width: 400px;
+    margin-left: 900px;
+}
+
+p {
+    padding: 10px;
+}
